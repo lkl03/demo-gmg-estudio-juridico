@@ -1,2 +1,7 @@
-# demo-gmg-estudio-juridico
-Demo web para GMG ESTUDIO JURIDICO — diseñada por eterlab.
+# GMG ESTUDIO JURIDICO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
